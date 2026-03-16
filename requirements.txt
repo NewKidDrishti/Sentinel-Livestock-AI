@@ -1,0 +1,15 @@
+ultralytics>=8.0.0
+torch>=2.1.0
+torchvision
+opencv-python
+pillow
+numpy<2.0.0
+fastapi
+uvicorn
+nest-asyncio
+gradio
+rembg
+pyyaml
+matplotlib
+seaborn
+pandas
