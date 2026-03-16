@@ -106,3 +106,5 @@ Author: Drishti Adlakha. Research for Paris-Saclay Evaluation and IEEE ICDL (Kyo
 
 ## Contact
 Drishti Adlakha - [LinkedIn](https://www.linkedin.com/in/drishtia/)
+
+**Deployment Status:** Optimized for local multi-core CPU execution.
