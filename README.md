@@ -104,3 +104,5 @@ python identity\_test.py
 
 Author: Drishti Adlakha. Research for Paris-Saclay Evaluation and IEEE ICDL (Kyoto, Japan).
 
+## Contact
+Drishti Adlakha - [LinkedIn](https://www.linkedin.com/in/drishtia/)
