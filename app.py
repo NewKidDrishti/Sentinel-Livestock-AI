@@ -7,8 +7,8 @@ from PIL import Image
 from ultralytics import YOLO
 import os
 import os
-os.environ["LD_LIBRARY_PATH"] = "/usr/lib/x86_64-linux-gnu"
 os.environ["QT_QPA_PLATFORM"] = "offscreen"
+import cv2
 
 # --- 1. PAGE CONFIG ---
 st.set_page_config(page_title="SENTINEL | AI Audit", page_icon="🛡️", layout="wide")
