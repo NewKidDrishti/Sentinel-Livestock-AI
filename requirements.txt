@@ -3,4 +3,4 @@ opencv-python-headless
 ultralytics
 torchvision
 pillow
-numpy==1.26.4
+numpy<2.0.0
