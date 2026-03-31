@@ -6,9 +6,11 @@ from torchvision import models, transforms
 from PIL import Image
 from ultralytics import YOLO
 import os
-import os
 os.environ["QT_QPA_PLATFORM"] = "offscreen"
-import cv2
+try:
+    import cv2
+except ImportError:
+    pass
 
 # --- 1. PAGE CONFIG ---
 st.set_page_config(page_title="SENTINEL | AI Audit", page_icon="🛡️", layout="wide")
