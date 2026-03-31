@@ -1,7 +1,5 @@
 streamlit
-opencv-python-headless
 ultralytics
-torch
 torchvision
 pillow
-numpy<2.0.0
+numpy==1.26.4
